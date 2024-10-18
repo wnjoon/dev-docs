@@ -1,2 +1,1 @@
 # Deterministic State-Machine Replication
-
